@@ -1,5 +1,7 @@
 Config = {}
 
+Config.Inventory = "qb-inventory"
+
 Config.Showzone = false
 
 Config.MicrophoneZones = {
